@@ -1,1 +1,1 @@
-echo "hello world"
+write-host "hello world"
